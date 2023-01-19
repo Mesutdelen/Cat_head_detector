@@ -11,6 +11,4 @@ Second Picture (automatically saves the code):
 
 Result: 
 
-![diff](https://user-images.githubusercontent.com/114522926/213443157-98b27f95-e6c1-4092-a5b8-abd44d8403b4.png)
-
-
+![diffOverImage2](https://user-images.githubusercontent.com/114522926/213443394-2ce4b51f-954a-46a0-911d-bcf741447ad9.png)
